@@ -1,0 +1,1 @@
+pub const BASE_URL: &str = "http://xjwis.ynufe.edu.cn";
